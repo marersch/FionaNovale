@@ -103,10 +103,14 @@ menu:
       url: /contributors/
       weight: 3
   header:
-    - name: About
-      title: About Blogophonic
-      url: /about/
+    - name: Home
+      title: Home
+      url: /
       weight: 1
+    - name: About
+      title: About
+      url: /about/
+      weight: 2
     - name: Blog
       title: Blog
       url: /blog/
@@ -123,10 +127,10 @@ menu:
       title: A collection
       url: /collection/
       weight: 5
-    - name: Elements
-      title: Element Page
-      url: /elements/
-      weight: 6
+    - name: Contact
+      title: Contact form
+      url: /contact/
+      weight: 10
 privacy:
   disqus:
     disable: no
