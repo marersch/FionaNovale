@@ -111,21 +111,17 @@ menu:
       title: About
       url: /about/
       weight: 2
-    - name: Blog
-      title: Blog
-      url: /blog/
-      weight: 2
-    - name: Projects
-      title: Project Portfolio
-      url: /project/
+    - name: Zeitwunden
+      title: Zeitwunden
+      url: /zeitwunden/
       weight: 3
-    - name: Talks
-      title: Talks
-      url: /talk/
+    - name: Kurzgeschichten
+      title: Kurzgeschichten
+      url: /kurzgeschichten/
       weight: 4
-    - name: A collection
-      title: A collection
-      url: /collection/
+    - name: Gedichte
+      title: Gedichte
+      url: /gedichte/
       weight: 5
     - name: Contact
       title: Contact form
