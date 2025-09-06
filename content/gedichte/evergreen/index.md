@@ -1,61 +1,94 @@
 ---
-author: Alison Hill
+author: Fiona Novale
 categories:
-- evergreen
-date: "2021-01-20"
+
+date: "2025-08-05"
 draft: false
-excerpt: Good stuff
+excerpt: Über Wunden ... durch Sprache, Gesellschaft, Rollenbilder. Eine Gedichtstrilogie, veröffentlicht im Kunst-Kultur-Literatur Magazin.
 layout: single
-subtitle: Testing
-title: An evergreen post
+subtitle: eine Gedichtstrilogie
+title: Gesellschaftwunden
 ---
 
-## Rendering mathematical equations
+##### Gesellschaftswunden
 
-Examples from the [mathjax demo](https://www.mathjax.org/#demo).
-But they work with `katex` as well.
+Gedanken
 
-### Rmarkdown
+durchwoben
 
-In `.Rmarkdown` documents, you can use either
+durchzogen
 
-```
-$a \ne 0$
-```
+von unsichtbaren Schatten<br><br>
 
-to get inline math: `\(a \ne 0\)`.
-There is no conflict with using dollar symbols regularly, because `knitr` automatically escapes freestanding dollar symbols.
 
-And you can use
+Wörter
 
-```
-$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-```
+missglückt
 
-to get a math paragraph:
+missbraucht
 
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+durch verachtendes Geplapper<br><br>
 
-### md
 
-In `.md` documents, you can **not** use the single dollar syntax.
-The double dollar syntax still gives you a math paragraph.
+Realitäten
 
-```
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-```
+entstehen
 
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
+entflammen
 
-In order to get inline equations, use:
+als hetzende Schimären<br><br>
 
-```
-`\(a \ne 0\)`
-or
-\\(a \ne 0\\)
-```
 
-to get: `\(a \ne 0\)`.
+Sprache
+
+formt Gedanken
+
+und prägt die Welt
+
+verletzt & verwundet
+
+wie‘s gerade gefällt
 
 
 
+.
+
+
+##### Gesellschaftswunden 2.0
+
+Du gefällst mir, ich will dich, ich mag deine Gestalt
+
+Du sagst nein – gut, ok, dann gebrauch ich Gewalt
+
+Kein Mensch, sondern Sache, eine Habseligkeit
+
+Du bist mein, nur mein, bis in die Endlosigkeit.<br><br>
+
+
+Lasst Wunden erkennen, nicht weiter verdrängen
+
+Auf Erkenntnis vertrauen, heilende Brücken erbauen.
+
+
+
+.
+
+
+##### Gesellschaftswunden re:loaded
+
+Begehren, Verlangen, unstillbarer Durst
+
+gefangen im Haben, in leidvoller Lust.<br><br>
+
+Suchen, Wandeln im finsteren Wald
+
+von Ignoranz geblendet, an Gefühlen kalt.<br><br>
+
+Das Licht verloren, die Wege verschwunden
+
+trotz allem: in Hoffnung & Liebe verbunden.
+
+
+
+<br><br>
+Veröffentlicht in [#kkl](https://kunstkulturliteratur.com/2025/08/05/gesellschaftswunden/), August 2025.

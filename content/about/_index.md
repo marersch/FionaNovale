@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
- Über die Autorin und Dichterin Fiona Novale.
+ Über die Autorin und Poetin Fiona Novale.
 headless: false
 show_header: true
 sidebar_left: false
