@@ -55,8 +55,8 @@ params:
   math:
     renderer: katex
   navallcaps: yes
-  orgLocal: Anywhere
-  orgName: RStudio
+  orgLocal: Fiona Novale
+  # orgName: RStudio
   sharing_image: /img/papillons.jpg
 #  social:
 #    - icon: instagram

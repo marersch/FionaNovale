@@ -18,7 +18,10 @@ Die Inhalte der externen Links wurden sorgfältig geprüft. Dennoch habe ich kei
 
 Da ich Cookies lieber backe als zu installieren, belasse ich das auch weiterhin so. Ich sammle und verarbeite weder persönliche Daten, noch möchte ich mit angepasster Werbung unterhalten.
 
+#### Danke
+
+Danke an diejenigen, die dieses [Template](https://hugo-apero.netlify.app/contributors/) erstellt und zur Verfügung gestellt haben. Danke an [mitmat.eu](https://mitmat.eu) für die Hilfe bei der Erstellung der Seite.
 
 <center>
-<i class="fa-regular fa-copyright fa-1x"></i> 2025 Marlene/Fiona
+<i class="fa-regular fa-copyright fa-1x"></i> 2025 Fiona Novale
 </center>
