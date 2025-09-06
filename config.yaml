@@ -1,8 +1,8 @@
-baseURL: https://www.example.org/
+baseURL: /
 theme: hugo-apero
-languageCode: en
-title: Hugo Apéro
-author: Alison Hill
+languageCode: de-de
+title: Fiona Novale
+author: Fiona Novale
 copyright: ''
 googleAnalytics: ''
 metaDataFormat: yaml
@@ -34,7 +34,7 @@ params:
   custom_theme: ''
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
-  description: A modern, beautiful, and easily configurable blog theme for Hugo.
+  description: Fiona Novale - Autorin. Als Fiona Novale schreibe ich über das Leben mit all seinen Höhen und Tiefen. Ich greife Themen auf, die Menschen beschäftigen, aber nicht immer angenehm sind.
   favicon: /img/FionaNovale_logo.png
   giscus:
     category: Comments
@@ -57,7 +57,7 @@ params:
   navallcaps: yes
   orgLocal: Fiona Novale
   # orgName: RStudio
-  sharing_image: /img/papillons.jpg
+  sharing_image: /img/fiona3.jpg
 #  social:
 #    - icon: instagram
 #      icon_pack: fab
