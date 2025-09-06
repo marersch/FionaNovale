@@ -48,10 +48,10 @@ params:
     theme: light
   headingFontFamily: sans-serif
   logo: /img/FionaNovale_logo.png
-  mainSections:
-    - blog
-    - project
-    - talk
+  # mainSections:
+  #   - blog
+  #   - project
+  #   - talk
   math:
     renderer: katex
   navallcaps: yes
