@@ -7,9 +7,9 @@ number_featured: 1 # pulling from mainSections in config.toml
 show_intro: true
 intro: |
     Unter dem Namen Fiona Novale schreibe ich nicht nur Romane, sondern auch Gedichte, Kurzgeschichten und philosophische Essays.</br></br>
-    Seit 2022 arbeite ich an einem Herzensprojekt: einem Blog, der Frauen aller Zeiten und Kontinente sichtbar macht – [erinnermich.eu](https://erinnermich.eu). Die Arbeit daran hat mich zu meinem Roman *Zeitwunden* inspiriert.</br></br>
     Fiona Novale ist ein Pseudonym. Ich bin promovierte Tibetologin und Philosophin, forsche und publiziere zu kulturwissenschaftlichen Themen [erschbamer.net](https://erschbamer.net/). Außerdem bin ich als kreative Schreiberin tätig.</br></br>
-    Oft halte ich die Inhalte meiner Texte in Form von Bildern fest und verbringt daher gerne Zeit in meinem Atelier beim Malen. Alle Bilder, die ich hier poste, stammen aus meiner Hand.
+    Seit 2022 arbeite ich an einem Herzensprojekt: einem Blog, der Frauen aller Zeiten und Kontinente sichtbar macht – [erinnermich.eu](https://erinnermich.eu). Die Arbeit daran hat mich zu meinem Roman *Zeitwunden* inspiriert.</br></br>
+    Oft halte ich die Inhalte meiner Texte in Form von Bildern fest und verbringt daher gerne Zeit in meinem Atelier. Alle Bilder – oder besser gesagt: Auszüge davon –, die ich hier poste, stammen von mir.
 show_outro: true
 outro: |
 #  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
