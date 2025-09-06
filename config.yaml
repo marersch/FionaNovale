@@ -35,7 +35,7 @@ params:
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
   description: A modern, beautiful, and easily configurable blog theme for Hugo.
-  favicon: /img/favicon.ico
+  favicon: /img/FionaNovale_logo.png
   giscus:
     category: Comments
     category_id: '[category ID]'
@@ -47,7 +47,7 @@ params:
     repo_id: '[REPO ID]='
     theme: light
   headingFontFamily: sans-serif
-  logo: /img/blogophonic-mark-dark.png
+  logo: /img/FionaNovale_logo.png
   mainSections:
     - blog
     - project
@@ -77,7 +77,9 @@ params:
   socialInFooter: yes
   socialInHeader: no
   textFontFamily: sans-serif
-  theme: sky
+  # one of: forest / grayscale / peach / plum /
+  #         poppy / sky / violet / water
+  theme: poppy
   twitter: apreshill
   utterances:
     issue_term: pathname
