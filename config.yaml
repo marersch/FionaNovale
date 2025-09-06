@@ -30,7 +30,7 @@ markup:
     ordered: no
     startLevel: 2
 params:
-  comments: utterances
+  #comments: utterances
   custom_theme: ''
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
@@ -58,46 +58,46 @@ params:
   orgLocal: Anywhere
   orgName: RStudio
   sharing_image: /img/papillons.jpg
-  social:
-    - icon: instagram
-      icon_pack: fab
-      url: https://www.instagram.com/explore/tags/apero/
-    - icon: x-twitter
-      icon_pack: fab
-      url: https://twitter.com/hashtag/apéro
-    - icon: impactstory
-      icon_pack: ai
-      url: https://impactstory.org/u/0000-0002-8082-1890
-    - icon: orcid
-      icon_pack: ai
-      url: http://orcid.org/0000-0002-8082-1890
-    - icon: rss
-      icon_pack: fas
-      url: /blog/index.xml
-  socialInFooter: yes
+#  social:
+#    - icon: instagram
+#      icon_pack: fab
+#      url: https://www.instagram.com/explore/tags/apero/
+#    - icon: x-twitter
+#      icon_pack: fab
+#      url: https://twitter.com/hashtag/apéro
+#    - icon: impactstory
+#      icon_pack: ai
+#      url: https://impactstory.org/u/0000-0002-8082-1890
+#    - icon: orcid
+#      icon_pack: ai
+#      url: http://orcid.org/0000-0002-8082-1890
+#    - icon: rss
+#      icon_pack: fas
+#      url: /blog/index.xml
+  socialInFooter: no
   socialInHeader: no
   textFontFamily: sans-serif
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water
   theme: poppy
   twitter: apreshill
-  utterances:
-    issue_term: pathname
-    label: 'comments :crystal_ball:'
-    repo_name: apreshill/apero
-    theme: boxy-light
+  #utterances:
+    #issue_term: pathname
+    #label: 'comments :crystal_ball:'
+    #repo_name: apreshill/apero
+    #theme: boxy-light
 taxonomies:
   category: categories
   series: series
   tag: tags
 menu:
   footer:
-    - name: License
-      title: License
+    - name: Impressum
+      title: Impressum
       url: /license/
       weight: 1
-    - name: Contact
-      title: Contact form
+    - name: Kontakt
+      title: Kontaktformular
       url: /contact/
       weight: 2
   header:
@@ -105,7 +105,7 @@ menu:
       title: Home
       url: /
       weight: 1
-    - name: About
+    - name: Über Fiona
       title: About
       url: /about/
       weight: 2
@@ -121,8 +121,8 @@ menu:
       title: Gedichte
       url: /gedichte/
       weight: 5
-    - name: Contact
-      title: Contact form
+    - name: Kontakt
+      title: Kontaktformular
       url: /contact/
       weight: 10
 privacy:

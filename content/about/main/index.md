@@ -6,9 +6,9 @@ number_featured: 1 # pulling from mainSections in config.toml
 #number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-    Als Fiona Novale verfasse ich neben Romanen auch Gedichte, Kurzgeschichten und philosophische Essays.</br></br>
-    Seit 2022 arbeite ich an einem Herzensprojekt: einem Blog, der Frauen aller Zeiten und Kontinente sichtbar macht – [www.erinnermich.eu](https://erinnermich.eu). Die Arbeit daran hat mich zu meinem Roman inspiriert.</br></br>
-    Fiona Novale ist ein Pseudonym. Ich bin promovierte Tibetologin und Philosophin forsche und publiziere zu kulturwissenschaftlichen Themen und bin freiberuflich als kreative Schreiberin tätig [www.erschbamer.net](https://erschbamer.net).</br></br>
+    Unter dem Namen Fiona Novale schreibe ich nicht nur Romane, sondern auch Gedichte, Kurzgeschichten und philosophische Essays.</br></br>
+    Seit 2022 arbeite ich an einem Herzensprojekt: einem Blog, der Frauen aller Zeiten und Kontinente sichtbar macht – [erinnermich.eu](https://erinnermich.eu). Die Arbeit daran hat mich zu meinem Roman *Zeitwunden* inspiriert.</br></br>
+    Fiona Novale ist ein Pseudonym. Ich bin promovierte Tibetologin und Philosophin, forsche und publiziere zu kulturwissenschaftlichen Themen [erschbamer.net](https://erschbamer.net/). Außerdem bin ich als kreative Schreiberin tätig.</br></br>
     Oft halte ich die Inhalte meiner Texte in Form von Bildern fest und verbringt daher gerne Zeit in meinem Atelier beim Malen. Alle Bilder, die ich hier poste, stammen aus meiner Hand.
 show_outro: true
 outro: |
