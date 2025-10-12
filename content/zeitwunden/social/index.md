@@ -4,7 +4,7 @@ categories:
 
 date: "2025-09-06"
 draft: false
-excerpt: Können Schicksale von Generation zu Generation weitergegeben werden?<br><br> Denn die Zeit heilt nicht alle Wunden ... ein Gesellschaftsroman.<br><br><b>Erscheint in wenigen Tagen!</b>
+excerpt: Können Schicksale von Generation zu Generation weitergegeben werden?<br><br> Denn die Zeit heilt nicht alle Wunden ... ein Gesellschaftsroman.<br><br><b>Jetzt erhältlich!</b>
 layout: single
 subtitle: Denn die Zeit heilt nicht alle Wunden ... ein Gesellschaftsroman
 title: Zeitwunden
@@ -20,3 +20,5 @@ In den letzten Jahren wurde viel getan, um dem entgegenzuwirken. Dennoch gibt es
 Auch andere Fakten geben zu denken. Fast jede dritte Frau wird im Laufe ihres Lebens Opfer von körperlicher oder sexualisierter Gewalt. Jährlich sterben an die 50.000 Frauen und Mädchen durch die Hand ihres Partners oder eines nahen Familienangehörigen. Genitalverstümmelung wird nach wie vor praktiziert
 
 #### Dazu dürfen wir nicht schweigen.
+
+Gerade nur über folgende Seite erhältlich, in wenigen Wochen auch in den Buchhandlungen: [epubli](https://www.epubli.com/shop/zeitwunden-9783565050475)

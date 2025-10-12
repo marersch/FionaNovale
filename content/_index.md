@@ -3,7 +3,7 @@ action_label: Read More &rarr;
 action_link: /about
 action_type: text
 description: Als Fiona Novale schreibe ich über das Leben mit all seinen Höhen und Tiefen. Ich greife Themen auf, die Menschen beschäftigen, aber nicht immer angenehm sind.<br><br>
-    Der Gesellschaftsroman [Zeitwunden](/zeitwunden/) (erscheint 2025) thematisiert jene Wunden, die Frauen von Generation zu Generation erlitten haben & die ihnen noch immer zugefügt werden.
+    Der Gesellschaftsroman [Zeitwunden](/zeitwunden/) (Oktober 2025) thematisiert jene Wunden, die Frauen von Generation zu Generation erlitten haben & die ihnen noch immer zugefügt werden. [Hier](https://www.epubli.com/shop/zeitwunden-9783565050475) erhältich.
 image_left: true
 images:
 - img/fiona3.jpg
