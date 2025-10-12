@@ -4,7 +4,7 @@ categories:
 
 date: "2025-09-06"
 draft: false
-excerpt: Können Schicksale von Generation zu Generation weitergegeben werden?<br><br> Denn die Zeit heilt nicht alle Wunden ... ein Gesellschaftsroman.<br><br><b>Jetzt erhältlich!</b>
+excerpt: Können Schicksale von Generation zu Generation weitergegeben werden?<br><br> Denn die Zeit heilt nicht alle Wunden ... ein Gesellschaftsroman.<br><br>
 layout: single
 subtitle: Denn die Zeit heilt nicht alle Wunden ... ein Gesellschaftsroman
 title: Zeitwunden
