@@ -21,4 +21,8 @@ Auch andere Fakten geben zu denken. Fast jede dritte Frau wird im Laufe ihres Le
 
 #### Dazu dürfen wir nicht schweigen.
 
-Gerade nur über folgende Seite erhältlich, in wenigen Wochen auch in den Buchhandlungen: [epubli](https://www.epubli.com/shop/zeitwunden-9783565050475)
+Hier erhältlich:
+- [epubli](https://www.epubli.com/shop/zeitwunden-9783565050475)
+- [Amazon](https://www.amazon.de/dp/3565050470?tag=lovelybooks-rdetail-21&fbclid=IwY2xjawNZ_01leHRuA2FlbQIxMAABHo1tg6qzdgj6R7plbhlaXzwCcJtjrEEH8pfCwT2f5lnxOo9OsNaCe8fD9lUQ_aem_SoG88FPvGf3-s65LKbKQMg)
+- [Thalia](https://www.thalia.de/shop/home/artikeldetails/A1077079707)
+- [Hugendubel](https://www.hugendubel.de/de/buch_kartoniert/fiona_novale-zeitwunden-51879803-produkt-details.html?fbclid=IwY2xjawNZ_9hleHRuA2FlbQIxMAABHkPFgVz66Dn5Qd_Znj-m1MbJjIAbVt7e0iYvcVyeLj1TD4LZUkjVIuuqDgpL_aem_8_ktXVDkfxHrI_D0qth03Q)
