@@ -1,10 +1,9 @@
 ---
 author: Fiona Novale
-categories:
-
+# categories:
 date: "2025-09-06"
 draft: false
-excerpt: Können Schicksale von Generation zu Generation weitergegeben werden?<br><br> Denn die Zeit heilt nicht alle Wunden ... ein Gesellschaftsroman.<br><br><b>[Hier](https://www.epubli.com/shop/zeitwunden-9783565050475) erhältlich.
+excerpt: Können Schicksale von Generation zu Generation weitergegeben werden?<br><br> Denn die Zeit heilt nicht alle Wunden ... ein Gesellschaftsroman.<br><br><b>[Hier](https://www.epubli.com/shop/zeitwunden-9783565050475)</b> erhältlich.
 layout: single
 subtitle: Denn die Zeit heilt nicht alle Wunden ... ein Gesellschaftsroman
 title: Zeitwunden
