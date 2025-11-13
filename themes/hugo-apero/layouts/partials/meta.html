@@ -47,8 +47,10 @@
     {{- $image := (index . 0) -}}
     {{- $image_link_absolute := (findRE "^/" $image) -}}
     {{- if $image_link_absolute -}}
+		<meta property="og:image" content="{{- $image | absURL -}}"/>
         <meta name="twitter:image" content="{{- $image | absURL -}}"/>
     {{- else -}}
+		<meta property="og:image" content="{{- (printf "%s%s" $permalink $image) -}}"/>
         <meta name="twitter:image" content="{{- (printf "%s%s" $permalink $image) -}}"/>
     {{- end -}}
 <!--using featured images-->
