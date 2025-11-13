@@ -34,7 +34,7 @@ params:
   custom_theme: ''
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
-  description: Fiona Novale - Autorin. Als Fiona Novale schreibe ich über das Leben mit all seinen Höhen und Tiefen. Ich greife Themen auf, die Menschen beschäftigen, aber nicht immer angenehm sind.
+  description: Fiona Novale ist eine Autorin, Lyrikerin, Bloggerin und Philosophin aus Südtirol. Ihr gesellschaftskritischer Roman "Zeitwunden" erschien 2025.
   favicon: /img/FionaNovale_logo.png
   giscus:
     category: Comments

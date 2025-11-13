@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Als Fiona Novale schreibe ich über das Leben mit all seinen Höhen und Tiefen. Ich greife Themen auf, die Menschen beschäftigen, aber nicht immer angenehm sind.
+description: Fiona Novale ist eine Autorin, Lyrikerin, Bloggerin und Philosophin aus Südtirol. Ihr gesellschaftskritischer Roman "Zeitwunden" erschien 2025.
 description_extra: |
     Als Fiona Novale schreibe ich über das Leben mit all seinen Höhen und Tiefen. Ich greife Themen auf, die Menschen beschäftigen, aber nicht immer angenehm sind.<br><br>
     Der Gesellschaftsroman [Zeitwunden](/zeitwunden/) (Oktober 2025) thematisiert jene Wunden, die Frauen von Generation zu Generation erlitten haben & die ihnen noch immer zugefügt werden. [Hier](https://www.epubli.com/shop/zeitwunden-9783565050475) erhältlich.
