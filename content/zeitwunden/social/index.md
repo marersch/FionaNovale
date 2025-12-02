@@ -3,7 +3,7 @@ author: Fiona Novale
 # categories:
 date: "2025-09-06"
 draft: false
-excerpt: Können Schicksale von Generation zu Generation weitergegeben werden?<br><br> Denn die Zeit heilt nicht alle Wunden ... ein Gesellschaftsroman.<br><br><b>[Hier](https://www.epubli.com/shop/zeitwunden-9783565050475)</b> erhältlich.
+excerpt: "Können Schicksale von Generation zu Generation weitergegeben werden?<br><br> Denn die Zeit heilt nicht alle Wunden ... ein Gesellschaftsroman.<br><br><b>[Hier](https://www.amazon.de/dp/3565050470?tag=lovelybooks-rdetail-21&fbclid=IwY2xjawNZ_01leHRuA2FlbQIxMAABHo1tg6qzdgj6R7plbhlaXzwCcJtjrEEH8pfCwT2f5lnxOo9OsNaCe8fD9lUQ_aem_SoG88FPvGf3-s65LKbKQMg)</b> erhältlich."
 layout: single
 subtitle: Denn die Zeit heilt nicht alle Wunden ... ein Gesellschaftsroman
 title: Zeitwunden
@@ -21,9 +21,10 @@ Auch andere Fakten geben zu denken. Fast jede dritte Frau wird im Laufe ihres Le
 #### Dazu dürfen wir nicht schweigen.
 
 Hier erhältlich:
-- [epubli](https://www.epubli.com/shop/zeitwunden-9783565050475)
 - [Amazon](https://www.amazon.de/dp/3565050470?tag=lovelybooks-rdetail-21&fbclid=IwY2xjawNZ_01leHRuA2FlbQIxMAABHo1tg6qzdgj6R7plbhlaXzwCcJtjrEEH8pfCwT2f5lnxOo9OsNaCe8fD9lUQ_aem_SoG88FPvGf3-s65LKbKQMg)
+- [Athesia](https://www.athesiabuch.it/de//item/Zeitwunden/Fiona_Novale/77774869)
 - [Thalia](https://www.thalia.de/shop/home/artikeldetails/A1077079707)
 - [Hugendubel](https://www.hugendubel.de/de/buch_kartoniert/fiona_novale-zeitwunden-51879803-produkt-details.html?fbclid=IwY2xjawNZ_9hleHRuA2FlbQIxMAABHkPFgVz66Dn5Qd_Znj-m1MbJjIAbVt7e0iYvcVyeLj1TD4LZUkjVIuuqDgpL_aem_8_ktXVDkfxHrI_D0qth03Q)
 - [Lehmanns](https://www.lehmanns.de/shop/literatur/83334490-9783565050475-zeitwunden)
 - [orellfüssli](https://www.orellfuessli.ch/shop/home/artikeldetails/A1077079707)
+- [epubli](https://www.epubli.com/shop/zeitwunden-9783565050475)
