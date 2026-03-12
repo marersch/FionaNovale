@@ -7,7 +7,7 @@ draft: false
 excerpt: Über Wunden ... durch Sprache, Gesellschaft, Rollenbilder. <br><br>Eine Gedichtstrilogie, veröffentlicht im Kunst-Kultur-Literatur Magazin.
 layout: single
 subtitle: eine Gedichtstrilogie
-title: Gesellschaftwunden
+title: Gesellschaftswunden
 ---
 
 ##### Gesellschaftswunden
