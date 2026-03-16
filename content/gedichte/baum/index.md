@@ -4,7 +4,7 @@ categories:
 
 date: "2026-03-12"
 draft: false
-excerpt: "In einer Welt, die niemals stillsteht, verlieren wir oft die Verbindung zu unserer eigenen Mitte. Drum: sei wie ein Baum – fest verwurzelt, während der Sturm des Alltags an dir vorbeizieht."
+excerpt: "In einer Welt, die niemals stillsteht, verlieren wir oft die Verbindung zu unserer eigenen Mitte. Deshalb: Sei wie ein Baum – fest verwurzelt, während der Sturm des Alltags an dir vorbeizieht."
 
 layout: single
 subtitle: 
