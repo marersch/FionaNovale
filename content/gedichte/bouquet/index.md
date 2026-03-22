@@ -4,7 +4,7 @@ categories:
 
 date: "2026-03-22"
 draft: false
-excerpt: Ein Gedicht über das Menschsein, Misstrauen und Toleranz ... – verpackt in einem floralen Gewand.
+excerpt: Ein Gedicht über das Menschsein, Misstrauen, Hass und Toleranz ... – verpackt in einem floralen Gewand.
 
 layout: single
 subtitle: 
