@@ -37,9 +37,7 @@ auflodernder Hass.<br><br>
 
 <b>Blauer Eisenhut.</b>
 
-Alte Stimmen
-
-raunen,
+Alte Stimmen raunen,
 
 grollen,
 
