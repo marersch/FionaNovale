@@ -4,7 +4,7 @@ categories:
 
 date: "2026-04-08"
 draft: false
-excerpt: Wir alle kennen diese Momente, in denen uralte Rollenbilder wie Schatten über uns liegen. Wo „Führen“ mit Stärke verwechselt wird und „Nachgeben“ mit Schwäche. Doch wahre Verbindung entsteht erst dort, wo wir die verstaubten Maßstäbe hinter uns lassen.
+excerpt: Wir alle kennen diese Momente, in denen uralte Rollenbilder wie Schatten über uns liegen. Wo „Führen“ mit Stärke verwechselt wird und „Nachgeben“ mit Schwäche. Doch wahre Verbindung entsteht erst dort, wo wir die verstaubten Maßstäbe hinter uns lassen. <br><br>Gedicht & Bild veröffentlicht im Kunst-Kultur-Literatur Magazin.
 
 layout: single
 subtitle: 
