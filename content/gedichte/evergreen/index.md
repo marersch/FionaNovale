@@ -91,4 +91,4 @@ trotz allem: in Hoffnung & Liebe verbunden.
 
 
 <br><br>
-Veröffentlicht in [#kkl](https://kunstkulturliteratur.com/2025/08/05/gesellschaftswunden/), August 2025.
+©Fiona Novale, veröffentlicht in [#kkl55 „Freigeist“](https://kunstkulturliteratur.com/2025/08/05/gesellschaftswunden/), August 2025.
