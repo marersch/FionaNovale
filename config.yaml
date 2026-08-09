@@ -34,7 +34,7 @@ params:
   custom_theme: ''
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
-  description: Fiona Novale ist eine Autorin, Lyrikerin, Bloggerin und Philosophin aus Südtirol. Ihr gesellschaftskritischer Roman "Zeitwunden" erschien 2025.
+  description: Fiona Novale ist Autorin, Lyrikerin, Bloggerin und Philosophin aus Südtirol. Ihr gesellschaftskritischer Roman "Zeitwunden" erschien 2025.
   favicon: /img/FionaNovale_logo.png
   giscus:
     category: Comments
@@ -58,10 +58,10 @@ params:
   orgLocal: Fiona Novale
   # orgName: RStudio
   sharing_image: /img/fiona3.jpg
-#  social:
-#    - icon: instagram
-#      icon_pack: fab
-#      url: https://www.instagram.com/explore/tags/apero/
+  social:
+    - icon: instagram
+      icon_pack: fab
+      url: https://www.instagram.com/erinnermich_blog/
 #    - icon: x-twitter
 #      icon_pack: fab
 #      url: https://twitter.com/hashtag/apéro
@@ -109,9 +109,9 @@ menu:
       title: About
       url: /about/
       weight: 2
-    - name: Zeitwunden
-      title: Zeitwunden
-      url: /zeitwunden/
+    - name: Romane
+      title: Romane
+      url: /romane/
       weight: 3
     - name: Kurzgeschichten
       title: Kurzgeschichten

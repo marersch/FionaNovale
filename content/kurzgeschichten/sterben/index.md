@@ -1,7 +1,7 @@
 ---
 author: Fiona Novale
 categories:
-date: "2026-05-01"
+date: "2026-04-01"
 draft: false
 excerpt: "Wir schweigen über das, was uns alle eint – den Tod. Ein paradoxes Tabu, denn nur im Spiegel unserer Endlichkeit begegnen wir der ungeschönten Wahrheit. Eine Geschichte über das Loslassen, den Schmerz und die Stille, die bleibt, wenn ein geliebter Mensch geht."
 layout: single
@@ -84,4 +84,4 @@ es schlägt nicht mehr.<br><br>
 Ein letztes Mal verabschiede ich mich von dir und wünsche dir eine gute Reise – wohin sie dich auch führen mag ...
 
 
-© Fiona Novale 
+© Fiona Novale - in lieber Erinnerung ...

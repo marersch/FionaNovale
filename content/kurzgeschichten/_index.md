@@ -7,7 +7,7 @@ show_button_links: false
 show_post_date: true
 show_post_thumbnail: true
 sidebar:
-  author: 
+#  author: 
 #  categories_link: true
   description: "Sie sind kurz. Im Idealfall regen sie jedoch zum Nachdenken und zum Nachfühlen an - und das längerfristig."
 #  series_link: true

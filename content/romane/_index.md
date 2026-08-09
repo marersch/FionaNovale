@@ -17,9 +17,9 @@ Wenn Familiengeheimnisse dein Leben in Unruhe versetzen ... In meinem zweiten Ro
 #  tags_link: true
 #  text_link_label:
 #  text_link_url: /index.xml
-  title: Zeitwunden
+  title: Romane
 thumbnail_left: true
-title: Zeitwunden
+title: Romane
 type: blog
 cascade:
   type: blog

@@ -16,3 +16,14 @@ command = 'hugo -F -b $DEPLOY_PRIME_URL'
 [context.production]
 [context.production.environment]
 HUGO_ENV = 'production'
+
+# --- 301 redirects ---
+[[redirects]]
+  from = "/zeitwunden/"
+  to = "/romane/"
+  status = 301
+
+[[redirects]]
+  from = "/zeitwunden/social/"
+  to = "/romane/zeitwunden/"
+  status = 301
