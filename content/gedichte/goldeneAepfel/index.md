@@ -7,7 +7,7 @@ draft: false
 excerpt: Warum werden Frauen immer noch ausgebremst?<br><br>Das "Atalante-Syndrom" erklärt eine patriarchale List, die wir alle kennen sollten ...
 
 layout: single
-subtitle: 
+subtitle: ... eine patriarchale List
 title: Drei goldene Äpfel
 ---
 

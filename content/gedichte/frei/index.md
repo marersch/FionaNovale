@@ -7,7 +7,7 @@ draft: false
 excerpt: Gefühl der Freiheit ...<br><br> Was bedeutet Freiheit?<br><br> Wann bin ich wirklich frei?
 
 layout: single
-subtitle: 
+subtitle: ... und schweben
 title: Frei sein
 ---
 
